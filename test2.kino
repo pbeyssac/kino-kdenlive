@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language">
+  <body>
+    <seq>
+      <video src="001.kinofx.dv" clipBegin="00:00:00.000" clipEnd="00:00:04.960"/>
+    </seq>
+    <seq>
+      <video src="test2-33.dv" clipBegin="00:00:05.000" clipEnd="00:00:05.520"/>
+    </seq>
+    <seq>
+      <video src="test2-34.dv" clipBegin="00:00:00.000" clipEnd="00:00:18.600"/>
+    </seq>
+    <seq>
+      <video src="test2-35.dv" clipBegin="00:00:00.000" clipEnd="00:00:08.240"/>
+    </seq>
+    <seq>
+      <video src="test2-36.dv" clipBegin="00:00:00.000" clipEnd="00:00:13.720"/>
+    </seq>
+    <seq>
+      <video src="test2-37.dv" clipBegin="00:00:00.000" clipEnd="00:00:20.280"/>
+    </seq>
+    <seq>
+      <video src="test2-38.dv" clipBegin="00:00:00.000" clipEnd="00:00:32.760"/>
+    </seq>
+    <seq>
+      <video src="test2-39.dv" clipBegin="00:00:00.000" clipEnd="00:00:09.640"/>
+    </seq>
+    <seq>
+      <video src="test2-40.dv" clipBegin="00:00:00.000" clipEnd="00:01:21.320"/>
+    </seq>
+    <seq>
+      <video src="test2-41.dv" clipBegin="00:00:00.000" clipEnd="00:00:09.160"/>
+    </seq>
+    <seq>
+      <video src="test2-42.dv" clipBegin="00:00:00.000" clipEnd="00:00:03.560"/>
+    </seq>
+    <seq>
+      <video src="test2-43.dv" clipBegin="00:00:00.000" clipEnd="00:00:12.840"/>
+    </seq>
+    <seq>
+      <video src="test2-44.dv" clipBegin="00:00:00.000" clipEnd="00:01:44.840"/>
+    </seq>
+    <seq>
+      <video src="test2-46.dv" clipBegin="00:00:00.000" clipEnd="00:00:19.720"/>
+    </seq>
+    <seq>
+      <video src="test2-47.dv" clipBegin="00:00:00.000" clipEnd="00:01:02.680"/>
+    </seq>
+    <seq>
+      <video src="test2-48.dv" clipBegin="00:00:00.000" clipEnd="00:00:24.200"/>
+    </seq>
+    <seq>
+      <video src="test2-49.dv" clipBegin="00:00:00.000" clipEnd="00:00:15.640"/>
+    </seq>
+    <seq>
+      <video src="test2-1-0.dv" clipBegin="00:00:00.000" clipEnd="00:00:18.040"/>
+    </seq>
+    <seq>
+      <video src="test2-1-1.dv" clipBegin="00:00:00.000" clipEnd="00:00:10.400"/>
+    </seq>
+    <seq>
+      <video src="test2-1-2.dv" clipBegin="00:00:00.000" clipEnd="00:00:51.200"/>
+    </seq>
+    <seq>
+      <video src="test2-1-3.dv" clipBegin="00:00:00.000" clipEnd="00:00:05.520"/>
+    </seq>
+    <seq>
+      <video src="test2-1-4.dv" clipBegin="00:00:00.000" clipEnd="00:00:11.600"/>
+    </seq>
+    <seq>
+      <video src="test2-1-8.dv" clipBegin="00:00:00.000" clipEnd="00:01:03.360"/>
+    </seq>
+    <seq>
+      <video src="test2-1-9.dv" clipBegin="00:00:00.000" clipEnd="00:00:11.760"/>
+    </seq>
+  </body>
+</smil>

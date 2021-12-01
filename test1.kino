@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<smil xmlns:smil2="http://www.w3.org/2001/SMIL20/Language">
+  <seq>
+    <video src="test1.dv" clipBegin="1379" clipEnd="2068"/>
+  </seq>
+</smil>
